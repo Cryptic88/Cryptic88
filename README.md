@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cryptic88
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in programming and Cyber Security
+- 🌱 I’m currently learning C#
 - 📫 How to reach me rynopuchert33@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also race dirtbikes.
